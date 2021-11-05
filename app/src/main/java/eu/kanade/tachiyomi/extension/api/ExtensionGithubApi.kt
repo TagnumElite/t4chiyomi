@@ -23,7 +23,7 @@ internal class ExtensionGithubApi {
 
     private val gson: Gson by injectLazy()
 
-    private val repoUrl = "https://raw.githubusercontent.com/inorichi/tachiyomi-extensions/repo"
+    private val repoUrl = "https://raw.githubusercontent.com/TagnumElite/tachiyomi-extensions/repo"
 
     fun findExtensions(): Observable<List<Extension.Available>> {
         val call = GET("$repoUrl/index.json")
