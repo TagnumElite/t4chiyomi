@@ -13,7 +13,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
-        <eu.kanade.tachiyomi.widget.ElevationAppBarLayout
+        <eu.kanade.t4chiyomi.widget.ElevationAppBarLayout
             android:id="@+id/appbar"
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
@@ -36,7 +36,7 @@
                 app:tabMode="scrollable"
                 app:tabMinWidth="75dp"/>
 
-        </eu.kanade.tachiyomi.widget.ElevationAppBarLayout>
+        </eu.kanade.t4chiyomi.widget.ElevationAppBarLayout>
 
         <com.bluelinelabs.conductor.ChangeHandlerFrameLayout
             android:id="@+id/controller_container"

@@ -196,7 +196,7 @@
 
     <!-- Brightness value -->
 
-    <eu.kanade.tachiyomi.widget.NegativeSeekBar
+    <eu.kanade.t4chiyomi.widget.NegativeSeekBar
         android:id="@+id/brightness_seekbar"
         android:layout_width="0dp"
         android:layout_height="wrap_content"

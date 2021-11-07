@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
 
-    <eu.kanade.tachiyomi.widget.RevealAnimationView
+    <eu.kanade.t4chiyomi.widget.RevealAnimationView
         android:id="@+id/reveal_view"
         android:layout_width="match_parent"
         android:layout_height="match_parent"

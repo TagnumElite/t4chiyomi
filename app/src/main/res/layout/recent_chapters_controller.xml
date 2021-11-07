@@ -17,7 +17,7 @@
             android:descendantFocusability="blocksDescendants"
             tools:listitem="@layout/recent_chapters_item"/>
 
-        <eu.kanade.tachiyomi.widget.EmptyView
+        <eu.kanade.t4chiyomi.widget.EmptyView
             android:id="@+id/empty_view"
             android:visibility="gone"
             android:layout_width="wrap_content"

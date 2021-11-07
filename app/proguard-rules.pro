@@ -1,8 +1,8 @@
 -dontobfuscate
 
 -dontwarn eu.kanade.tachiyomi.**
--keep class eu.kanade.tachiyomi.**
--keep class eu.kanade.tachiyomi.source.model.** { *; }
+-keep class eu.kanade.t4chiyomi.**
+-keep class eu.kanade.t4chiyomi.source.model.** { *; }
 
 -keep class com.hippo.image.** { *; }
 -keep interface com.hippo.image.** { *; }

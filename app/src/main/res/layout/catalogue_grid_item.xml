@@ -87,7 +87,7 @@
                 android:layout_marginTop="4dp"/>
         </android.support.constraint.ConstraintLayout>
 
-        <eu.kanade.tachiyomi.widget.PTSansTextView
+        <eu.kanade.t4chiyomi.widget.PTSansTextView
             android:id="@+id/title"
             style="@style/TextAppearance.Regular.Body1.Light"
             app:typeface="ptsansNarrowBold"
